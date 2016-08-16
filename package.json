@@ -1,0 +1,22 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "NodeSchool.io tutorial.",
+  "main": "1-hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byrondover/learnyounode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byrondover/learnyounode/issues"
+  },
+  "homepage": "https://github.com/byrondover/learnyounode#readme",
+  "dependencies": {
+    "bl": "^1.1.2"
+  }
+}
