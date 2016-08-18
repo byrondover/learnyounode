@@ -1,4 +1,4 @@
-var filterFn = require('./6-solution-filter.js')
+var filterFn = require('./06-solution-filter.js')
 var dir = process.argv[2]
 var filterStr = process.argv[3]
 

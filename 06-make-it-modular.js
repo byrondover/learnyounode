@@ -1,5 +1,5 @@
 var fs = require('fs');
-var mymodule = require('./6-mymodule.js');
+var mymodule = require('./06-mymodule.js');
 
 function logFiles(err, filesList) {
   if (err) console.log('Error occured! ' + err);
