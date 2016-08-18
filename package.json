@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/byrondover/learnyounode#readme",
   "dependencies": {
-    "bl": "^1.1.2"
+    "bl": "^1.1.2",
+    "strftime": "^0.9.2"
   }
 }
